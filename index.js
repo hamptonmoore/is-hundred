@@ -21,7 +21,7 @@
  * don't do this at home kids
  * 
  * 
- * IF you are wondering what is happening check the line count and compare with our friends is 10
+ * If you are wondering what is happening check the line count and compare with our friends is 10
  * 
  * 
  * This is getting closer to the needed amount
